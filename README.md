@@ -28,7 +28,7 @@
 
 ### Student Information Exchange (JavaScript, HTML, CSS) - August 2022 – December 2022
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefMuhiar/Student-Social-Website.git)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefMuhiar/Student-Social-Website.git)
 
 - Developed a responsive social media platform for university students.
 - Collaborated with a team to implement key features like tutoring services, clubs, login/registration, and advertisements.
@@ -55,7 +55,7 @@
 - **Email:** youssefmuhiar@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Muhiar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-muhiar/)
-[![GitHub](https://img.shields.io/badge/GitHub-YoussefMuhiar-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefMuhiar)
+[![GitHub](https://img.shields.io/badge/GitHub-YoussefMuhiar-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefMuhiar)
 [![Email](https://img.shields.io/badge/Email-youssefmuhiar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmuhiar@gmail.com)
 
 Feel free to explore my repositories and projects. I'm open to collaboration and excited about the possibilities.
