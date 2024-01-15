@@ -28,6 +28,8 @@
 
 ### Student Information Exchange (JavaScript, HTML, CSS) - August 2022 – December 2022
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefMuhiar/Student-Social-Website.git)
+
 - Developed a responsive social media platform for university students.
 - Collaborated with a team to implement key features like tutoring services, clubs, login/registration, and advertisements.
 - Utilized Firebase for backend hosting.
