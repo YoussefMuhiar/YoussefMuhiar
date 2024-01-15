@@ -1,6 +1,6 @@
 # Youssef Muhiar's GitHub Profile
 
-👋 Welcome to my GitHub profile! I'm Youssef Muhiar, a passionate software engineering student actively seeking a full-time software engineer position. I'm dedicated to applying my skills in software design, development, and testing to contribute meaningfully to a dynamic and challenging work environment. Let's dive into my journey:
+👋 Welcome to my GitHub profile! I'm Youssef Muhiar, a passionate software engineering student actively seeking a full-time software engineer position. I'm dedicated to applying my skills in software design, development, and testing to contribute meaningfully to a dynamic and challenging work environment.
 
 ## 🎓 Education
 
@@ -52,4 +52,7 @@
 - **LinkedIn:** [Youssef Muhiar](https://www.linkedin.com/in/youssef-muhiar/)
 - **Email:** youssefmuhiar@gmail.com
 
-Feel free to explore my repositories and projects. I'm open to collaboration and excited about the possibilities. Happy coding! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Muhiar-blue)](https://www.linkedin.com/in/youssef-muhiar/)
+[![GitHub](https://img.shields.io/badge/GitHub-YoussefMuhiar-green)](https://github.com/YoussefMuhiar)
+
+Feel free to explore my repositories and projects. I'm open to collaboration and excited about the possibilities.
