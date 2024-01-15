@@ -53,4 +53,3 @@
 - **Email:** youssefmuhiar@gmail.com
 
 Feel free to explore my repositories and projects. I'm open to collaboration and excited about the possibilities. Happy coding! 🚀
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
